@@ -1,0 +1,10 @@
+[run]
+branch = True
+source = environs_serviceurl
+omit =
+    */test/*
+
+[report]
+exclude_lines =
+    ✘${TOX_ENVNAME}
+    pragma: no ?cover
