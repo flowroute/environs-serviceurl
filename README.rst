@@ -8,7 +8,7 @@ evirons-serviceurl: Add service URL parsing support for environs
 
 environs-serviceurl is a Python library that extends the
 `environs <https://github.com/sloria/environs>`_ library with support for
-turning service urls like ``postgres://user:pass@host:port/databse`` into
+turning service urls like ``postgres://user:pass@host:port/database`` into
 Python dictionaries.
 
 

@@ -1,7 +1,7 @@
-include README.md
+include README.rst
 include LICENSE
 
-recursive include test *
+recursive-include test *
 
-recursive exclude * __pycache__
-recursive exclude * *.py[co]
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
