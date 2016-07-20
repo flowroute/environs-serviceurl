@@ -23,7 +23,7 @@ def readme():
 
 setup(
     name='environs-serviceurl',
-    version='0.0.0',
+    version='1.0.0',
     description='Add service URL parsing support for environs',
     long_description=readme(),
     url='http://github.com/flowroute/environs-serviceurl',
